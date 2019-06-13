@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Certificate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_first"></string>
+    <string name="label_second"></string>
+    <string name="label_third"></string>
+    <string name="label_fourth"></string>
+    <string name="rdo_exer_label">题库</string>
+    <string name="rdo_cour_label">视频</string>
+    <string name="rdo_mess_label">章节</string>
+    <string name="rdo_my_label">我的</string>
+</resources>
